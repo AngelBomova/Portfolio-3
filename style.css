@@ -100,8 +100,6 @@
         padding-top: 15%;
         padding-left: 10%;
         padding-right: 5%;
-
-
       }
       .pone {
         text-align: center;
@@ -210,15 +208,19 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color: rgba(211, 211, 211, 0.479);
     color: white;
     text-align: center;
+    border: solid;
  }
 
  
  #footerbutton1 {
-  background-color: #f44336;
-  color: white;
+  background-color: lightgrey;
+  color: black;
+  border: solid;
+  border-color: lightgrey;
+  border-radius: 2px; 
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
@@ -228,4 +230,4 @@
 a:hover, a:active {
   background-color: lightskyblue;
 }
- }
+ 

@@ -105,9 +105,9 @@
         text-align: left;
         font-weight: bold;
         width: 100%;
-        padding-top: 15%;
-        padding-left: 10%;
-        padding-right: 5%;
+        font-size: 250%;
+        padding-top: 1%;
+        padding-left: 5%;
       }
       .pone {
         text-align: center;
@@ -133,6 +133,8 @@
         font-size: 120%;
         width: 100%;
         padding-top: 1%;
+        padding-left: 5%;
+        padding-right: 5%;
 }
       .container {
   position: relative;

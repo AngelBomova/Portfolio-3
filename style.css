@@ -101,6 +101,14 @@
         padding-left: 10%;
         padding-right: 5%;
       }
+      .hfour {
+        text-align: left;
+        font-weight: bold;
+        width: 100%;
+        padding-top: 15%;
+        padding-left: 10%;
+        padding-right: 5%;
+      }
       .pone {
         text-align: center;
         font-weight: lighter;
@@ -118,7 +126,14 @@
         padding-right: 5%;
         font-family: 'Trebuchet MS', sans-serif;
       }
-
+.pthree {
+  text-align: left;
+        font-weight: lighter;
+        color: blue;
+        font-size: 120%;
+        width: 100%;
+        padding-top: 1%;
+}
       .container {
   position: relative;
   width: 50%;
@@ -158,11 +173,6 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
-
-
-
-
-
 
 .container {
     position: relative;
@@ -229,5 +239,14 @@
 
 a:hover, a:active {
   background-color: lightskyblue;
+}
+.eduimg {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 30%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
  

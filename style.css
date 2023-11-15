@@ -266,6 +266,10 @@ color: blue;
 a:hover, a:active {
   background-color: lightskyblue;
 }
+.hoverglow {
+  background-color: lightskyblue;
+
+}
 .eduimg {
     border: 1px solid #ddd;
     border-radius: 4px;

@@ -241,13 +241,15 @@ color: blue;
   }
   .footer1 {
     position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
+      bottom: 0;
+      width: 100%;
     background-color: rgba(211, 211, 211, 0.479);
     color: white;
     text-align: center;
     border: solid;
+ }
+ .coledu {
+  margin-bottom: 10%;
  }
 
  
